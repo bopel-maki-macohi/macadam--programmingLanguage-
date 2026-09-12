@@ -1,0 +1,20 @@
+{
+    "name": "Macadam",
+    "description": "Dumb Custom Programming Language made in haxe",
+    "tags": [
+        "interpreter",
+        "script",
+        "scripting"
+    ],
+
+    "license": "Apache",
+    "releasenote": "N / A",
+    "contributors": [
+        "bopel.maki.macohi"
+    ],
+
+    "version": "0.1.0",
+
+    "classPath": "src/",
+    "main": "macadam.CLI"
+}

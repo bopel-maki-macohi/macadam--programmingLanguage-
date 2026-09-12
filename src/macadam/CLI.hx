@@ -1,0 +1,3 @@
+package macadam;
+
+class CLI {}
