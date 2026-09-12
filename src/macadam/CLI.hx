@@ -1,3 +1,5 @@
 package macadam;
 
-class CLI {}
+class CLI {
+	static function main() {}
+}
